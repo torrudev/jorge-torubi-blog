@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Jorge Torubi Blog</title>
+	<subtitle>Blog personal en el que hablo sobre sobre consejos, reflexiones, programación, estudios, trabajo y productividad</subtitle>
+	
+	<link href="https://jorgetorubi.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://jorgetorubi.github.io/jorge-torubi-blog/"/>
+	<updated>2022-04-06T00:00:00Z</updated>
+	<id>https://jorgetorubi.github.io/jorge-torubi-blog/</id>
+	<author>
+		<name>Jorge Torubi</name>
+		<email>contact.jorgetorubi@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>Primera publicación</title>
+		<link href="https://jorgetorubi.github.io/posts/firstpost/"/>
+		<updated>2022-04-06T00:00:00Z</updated>
+		<id>https://jorgetorubi.github.io/posts/firstpost/</id>
+		<content type="html">&lt;p&gt;pagina de ejemplo&lt;/p&gt;
+</content>
+	</entry>
+</feed>

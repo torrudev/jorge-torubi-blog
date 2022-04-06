@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Jorge Torubi Blog",
+  "language": "es",
+  "home_page_url": "https://jorgetorubi.github.io/jorge-torubi-blog/",
+  "feed_url": "https://jorgetorubi.github.io/jorge-torubi-blog/feed/feed.json",
+  "description": "Blog personal en el que hablo sobre sobre consejos, reflexiones, programación, estudios, trabajo y productividad",
+  "author": {
+    "name": "Jorge Torubi",
+    "url": "https://jorgetorubi.github.io/jorge-torubi-blog/about-me/"
+  },
+  "items": [{
+      "id": "https://jorgetorubi.github.io/posts/firstpost/",
+      "url": "https://jorgetorubi.github.io/posts/firstpost/",
+      "title": "Primera publicación",
+      "content_html": "<p>pagina de ejemplo</p>\n",
+      "date_published": "2022-04-06T00:00:00Z"
+    }
+  ]
+}

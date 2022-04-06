@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/posts/</loc>
+    <lastmod>2022-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/</loc>
+    <lastmod>2022-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/page-list/</loc>
+    <lastmod>2022-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/tags/</loc>
+    <lastmod>2022-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/tags/prueba/</loc>
+    <lastmod>2022-02-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/sobre-mi/</loc>
+    <lastmod>2022-03-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgetorubi.github.io/posts/firstpost/</loc>
+    <lastmod>2022-04-06</lastmod>
+  </url>
+</urlset>
